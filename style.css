@@ -14,7 +14,7 @@
 
 }
 
-section {
+section .container .todo-app {
     border: 2px solid black;
 }
 
@@ -126,14 +126,4 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
-
-
-
-
-
-
-
-
-
-
 
